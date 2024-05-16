@@ -191,18 +191,18 @@ strings:
   item_name_adp_synthase_enzyme: ADP Synthase Enzyme
   item_name_alcohol_dehydrogenase: Alcohol Dehydrogenase
   item_name_base_pair_ligase_enzyme: Base Pair Ligase Enzyme
-  item_name_glycolysis_enzyme: Glycolysis Enzyme
+  item_name_glycolysis_enzyme: 당분해 효소
   item_name_krebs_cycle_enzyme: Krebs Cycle Enzyme
   item_name_lactate_dehydrogenase: Lactate Dehydrogenase
   item_name_malate_dehydrogenase: Malate Dehydrogenase
   item_name_nucleobase_synthase_enzyme: Nucleobase Synthase Enzyme
   item_name_pentose_phosphate_pathway_enzyme: Pentose Phosphate Pathway Enzyme
   item_name_nad_synthase_enzyme: NAD Synthase Enzyme
-  item_name_pyruvate_carboxylase_enzyme: Pyruvate Carboxylase Enzyme
-  item_name_pyruvate_dehydrogenase_enzyme: Pyruvate Dehydrogenase Enzyme
-  item_name_nad_nadp_transhydrogenase_enzyme: NAD/NADP Transhydrogenase Enzyme
-  item_name_luciferase_enzyme: Luciferase Enzyme
-  item_name_aspartate_aminotransferase: Aspartate Aminotransferase
+  item_name_pyruvate_carboxylase_enzyme: 피루브산 탈탄산 효소
+  item_name_pyruvate_dehydrogenase_enzyme: 피루브산 탈수소 효소
+  item_name_nad_nadp_transhydrogenase_enzyme: NAD/NADP 산화환원효소
+  item_name_luciferase_enzyme:  루시페린 산화 효소
+  item_name_aspartate_aminotransferase: 아스파트산 아미노기 전이 효소
 
   item_name_cell_membrane: 세포 멤브레인
   item_name_collagen_flooring: 콜라겐 바닥
@@ -224,7 +224,7 @@ strings:
   item_name_defensin_theta: θ-defensin
 
   item_name_uniporter_mrna: mRNA 단일 수송체
-  item_name_uniporter_pyruvate: Pyruvate 단일 수송체
+  item_name_uniporter_pyruvate: 피루브산 단일 수송체
 
   item_name_virus: 바이러스
   item_name_bacterium_bacillus_blue: 파란색 간균 
@@ -292,9 +292,9 @@ strings:
   evolution_name_myosin: 미오신
   evolution_name_novel_pickers: 특수 수집기
   evolution_name_pentose_phosphate_pathway: 오탄당 인산경로
-  evolution_name_primitive_bioluminescence: Primitive Bioluminescence
-  evolution_name_primordial_immunity: Primordial Immunity
-  evolution_name_pyruvate_manipulation: Pyruvate Manipulation
+  evolution_name_primitive_bioluminescence: 초급 발광
+  evolution_name_primordial_immunity: 고급 원시 면역
+  evolution_name_pyruvate_manipulation: 피루브산 조작
   evolution_name_staminal_discovery: Staminal Discovery
   evolution_name_subunits: Subunits
   evolution_name_tubulins: Tubulins
@@ -309,8 +309,8 @@ strings:
   evolution_description_primitive_logistics: Discover <r>microtubules</r>, <r>pickers</r> and <r>cytostomes</r>, which are used to route items inside cells and siphon items from outside
   evolution_description_transportation_basic: Disover non oxidable <r>microtubules</r> and <r>pickers</r>, discover <r>item kickers</r>, used to force direction on tubules and <r>primitive tunnels</r>
 
-  evolution_name_energy_production_1: 해당과정
-  evolution_description_energy_production_1: Discover <r>glycolysis</r>, which is the simplest way to produce energy
+  evolution_name_energy_production_1: 당분해
+  evolution_description_energy_production_1: Discover <r>당분해 효소</r>를 해제하고, which is the simplest way to produce energy
 
   evolution_name_energy_production_2: 산화적 인산화
   evolution_description_energy_production_2: Discover oxidative metabolism which happens inside <r>mithocondria</r> and it's able to produce a lot of energy or heat
@@ -321,7 +321,7 @@ strings:
   evolution_name_heat_production: 짝풀림 발열
   evolution_description_heat_production: Discover how to generate heat by using <r>electron transport chain</r> generated energy
 
-  evolution_description_expansion: Discover how to expand your cell
+  evolution_description_expansion: 세포를 확장하는 방법
   evolution_description_intracellular_production: Discover <r>assemblers</r> and <r>catalyzers</r>, which are used to produce complex objects or catalyze chemical reactions
 
   evolution_description_alcoholic_fermentation: Discover alcoholic fermentation, a way to restore <r>NAD</r> from <r>NADH</r> by producing <r>ethanol</r>
@@ -512,8 +512,8 @@ strings:
   recipe_name_nadp_synthase: NADP Synthase
   recipe_name_adp_synthase: ADP Synthase
   recipe_name_aspartate_aminotransferase_reverse: Aspartate Aminotransferase (reverse)
-  recipe_name_glycolysis: Glycolysis
-  recipe_name_krebs_cycle: Krebs Cycle
+  recipe_name_glycolysis: 당분해
+  recipe_name_krebs_cycle: 크렙스 회로
   recipe_name_lipase_diglyceride: Lipase Diglyceride
   recipe_name_lipase_monoglyceride: Lipase Monoglyceride
   recipe_name_lipase_triglyceride: Lipase Triglyceride
