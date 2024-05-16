@@ -84,17 +84,17 @@ strings:
 
   item_name_picker: 수집기
   item_name_picker_fast: 고급 수집기
-  item_name_picker_red: Red Picker
-  item_name_picker_blue: Blue Picker
-  item_name_picker_green: Green Picker
-  item_name_picker_yellow: Yellow Picker
-  item_name_picker_white: White Picker
-  item_name_picker_gaseous: Gas Picker
-  item_name_picker_genetic: Genomic Picker
-  item_name_picker_energetic: Energetic Picker
+  item_name_picker_red: 빨강색 수집기
+  item_name_picker_blue: 파랑색 수집기
+  item_name_picker_green: 초록색 수집기
+  item_name_picker_yellow: 노랑색 수집기
+  item_name_picker_white: 하양색 수집기
+  item_name_picker_gaseous: 가스 수집기
+  item_name_picker_genetic: 유전물질 수집기
+  item_name_picker_energetic: 에너지물질 수집기
   item_name_picker_long: Long Picker
   item_name_picker_overlong: Overlong Picker
-  item_name_picker_filter: Filtering Picker
+  item_name_picker_filter: 필터된 수집기
   item_name_picker_primitive: 초급 수집기
 
   item_name_phospholipid: 인지질
