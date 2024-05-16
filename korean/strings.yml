@@ -15,7 +15,7 @@ strings:
   item_category_energy: 에너지
   item_category_enzyme: 효소
   item_category_lipid: 지질
-  item_category_transporter: Transporter
+  item_category_transporter: 수송체
   item_category_flow: 순환
   item_category_flow_urinary: 비뇨계
   item_category_flow_respiratory: 호흡계
@@ -160,8 +160,8 @@ strings:
   item_name_vimentin: 비타민
   item_name_luciferin: Luciferin
   item_name_myosin: 미오신
-  item_name_alpha_helix: Alpha Helix
-  item_name_beta_sheet: Beta Sheet
+  item_name_alpha_helix: 알파 나선
+  item_name_beta_sheet: 베타 병풍
 
   item_name_carbon_dioxide: Carbon Dioxide
   item_name_oxygen: Oxygen
@@ -230,15 +230,15 @@ strings:
   item_name_bacterium_bacillus_blue: 파란색 간균 
   item_name_bacterium_bacillus_green: 초록색 간균 
   item_name_bacterium_coccus_red: 빨간색 구균 
-  item_name_bacterium_coccus_yellow: 노랑색 구균 
+  item_name_bacterium_coccus_yellow: 노란색 구균 
 
   item_name_capillary: Capillary
   item_name_artery1x1: Small 동맥
   item_name_artery2x2: Medium 동맥
-  item_name_artery4x4: 대 동맥
+  item_name_artery4x4: 대동맥
   item_name_vein1x1: Small 정맥
   item_name_vein2x2: Medium 정맥
-  item_name_vein4x4: 대 정맥
+  item_name_vein4x4: 대정맥
   item_name_perforator_artery1x1: Small Perforator Artery
   item_name_perforator_artery2x2: Medium Perforator Artery
   item_name_perforator_artery4x4: Large Perforator Artery
@@ -249,49 +249,49 @@ strings:
   item_name_cardiac_pump1x1: Small Cardiac Pump
   item_name_cardiac_pump2x2: Medium Cardiac Pump
 
-  item_name_resource_heap: 자원더미
+  item_name_resource_heap: 자원 더미
   item_name_building_site: 공사장
 
   item_name_missing_item: 존재하지 않는 자원
-  item_name_none: None
+  item_name_none: 없음
 
 # evolution
 
   evolution_name_birth_of_life: Birth of Life
   evolution_description_birth_of_life: Unlock starting recipes
 
-  evolution_name_advanced_bioluminescence: Advanced Bioluminescence
-  evolution_name_advanced_distribution: Advanced Distribution
-  evolution_name_advanced_primordial_immunity: Advanced Primordial Immunity
-  evolution_name_advanced_routing: Advanced Routing
-  evolution_name_alcoholic_fermentation: Alcoholic Fermentation
-  evolution_name_beta_sheet_and_alpha_helix: Beta Sheet And Alpha Helix
-  evolution_name_collagen: Collagen
-  evolution_name_colored_pickers: Colored Pickers
-  evolution_name_diffuser: Diffuser
-  evolution_name_energy_distribution: Energy Distribution
+  evolution_name_advanced_bioluminescence: 고급 발광
+  evolution_name_advanced_distribution: 고급 분배
+  evolution_name_advanced_primordial_immunity: 고급 원시 면역
+  evolution_name_advanced_routing: 고급 이송
+  evolution_name_alcoholic_fermentation: 알코올 발효
+  evolution_name_beta_sheet_and_alpha_helix: 단백질 이차구조
+  evolution_name_collagen: 콜라겐
+  evolution_name_colored_pickers: 색깔 수집기
+  evolution_name_diffuser: 확산기
+  evolution_name_energy_distribution: 에너지 분배
   evolution_name_evolution_1: 진화 1
   evolution_name_evolution_2: 진화 2
-  evolution_name_expansion: Expansion
-  evolution_name_extracellular_distribution: Extracellular Distribution
-  evolution_name_extracellular_expansion: Extracellular Expansion
-  evolution_name_extreme_routing: Extreme Routing
-  evolution_name_filtering_picker: Filtering Picker
-  evolution_name_functional_proteins: Functional Proteins
-  evolution_name_gas_logistics: Gas Logistics
-  evolution_name_innate_response: Innate Response
+  evolution_name_expansion: 확장
+  evolution_name_extracellular_distribution: 세포 외 분배
+  evolution_name_extracellular_expansion: 세포 외 확장
+  evolution_name_extreme_routing: 최고급 이송
+  evolution_name_filtering_picker: 필터 수집기
+  evolution_name_functional_proteins: 기능성 단백질
+  evolution_name_gas_logistics: 기체 이송
+  evolution_name_innate_response: 선천 면역 반응
   evolution_name_intracellular_organization_1: Intracellular Organization 1
   evolution_name_intracellular_organization_2: Intracellular Organization 2
-  evolution_name_intracellular_production: Intracellular Production
-  evolution_name_kinesin: Kinesin
-  evolution_name_krebs_cycle: Krebs Cycle
-  evolution_name_membrane_transportation: Membrane Transportation
-  evolution_name_membrane_transportation_advanced: Membrane Transportation Advanced
-  evolution_name_mitochondrion: Mitochondrion
-  evolution_name_mitochondrion_transportation: Mitochondrion Transportation
-  evolution_name_myosin: Myosin
-  evolution_name_novel_pickers: Novel Pickers
-  evolution_name_pentose_phosphate_pathway: Pentose Phosphate Pathway
+  evolution_name_intracellular_production: 세포 내 생산
+  evolution_name_kinesin: 키네신
+  evolution_name_krebs_cycle: TCA 회로
+  evolution_name_membrane_transportation: 세포막 수송
+  evolution_name_membrane_transportation_advanced: 고급 세포막 수송
+  evolution_name_mitochondrion: 미토콘드리아
+  evolution_name_mitochondrion_transportation: 미토콘드리아 수송
+  evolution_name_myosin: 미오신
+  evolution_name_novel_pickers: 특수 수집기
+  evolution_name_pentose_phosphate_pathway: 오탄당 인산경로
   evolution_name_primitive_bioluminescence: Primitive Bioluminescence
   evolution_name_primordial_immunity: Primordial Immunity
   evolution_name_pyruvate_manipulation: Pyruvate Manipulation
@@ -299,26 +299,26 @@ strings:
   evolution_name_subunits: Subunits
   evolution_name_tubulins: Tubulins
 
-  evolution_name_transportation_basic: 기본 물류운송
-  evolution_name_transportation_advanced: 고급 물류운송
+  evolution_name_transportation_basic: 기본 자원 수송
+  evolution_name_transportation_advanced: 고급 자원 수송
   evolution_name_gathering_basic: Basic Gathering
 
-  evolution_name_furniture_primitive: 생존(원시) 가구
+  evolution_name_furniture_primitive: 초급 가구
 
-  evolution_name_primitive_logistics: Primitive Logistics
+  evolution_name_primitive_logistics: 초급 자원 이송
   evolution_description_primitive_logistics: Discover <r>microtubules</r>, <r>pickers</r> and <r>cytostomes</r>, which are used to route items inside cells and siphon items from outside
   evolution_description_transportation_basic: Disover non oxidable <r>microtubules</r> and <r>pickers</r>, discover <r>item kickers</r>, used to force direction on tubules and <r>primitive tunnels</r>
 
-  evolution_name_energy_production_1: Glycolysis
+  evolution_name_energy_production_1: 해당과정
   evolution_description_energy_production_1: Discover <r>glycolysis</r>, which is the simplest way to produce energy
 
-  evolution_name_energy_production_2: Oxidative Metabolism
+  evolution_name_energy_production_2: 산화적 인산화
   evolution_description_energy_production_2: Discover oxidative metabolism which happens inside <r>mithocondria</r> and it's able to produce a lot of energy or heat
 
-  evolution_name_energy_production_3: ATP Generation
+  evolution_name_energy_production_3: ATP 합성
   evolution_description_energy_production_3: Discover how to recharge of <r>ADP</r> into <r>ATP</r> by using <r>electron transport chain</r> generated energy
 
-  evolution_name_heat_production: Heat Generation
+  evolution_name_heat_production: 짝풀림 발열
   evolution_description_heat_production: Discover how to generate heat by using <r>electron transport chain</r> generated energy
 
   evolution_description_expansion: Discover how to expand your cell
