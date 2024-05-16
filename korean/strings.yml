@@ -233,12 +233,12 @@ strings:
   item_name_bacterium_coccus_yellow: 노랑색 구균 
 
   item_name_capillary: Capillary
-  item_name_artery1x1: Small Artery
-  item_name_artery2x2: Medium Artery
-  item_name_artery4x4: Large Artery
-  item_name_vein1x1: Small Vein
-  item_name_vein2x2: Medium Vein
-  item_name_vein4x4: Large Vein
+  item_name_artery1x1: Small 동맥
+  item_name_artery2x2: Medium 동맥
+  item_name_artery4x4: 대 동맥
+  item_name_vein1x1: Small 정맥
+  item_name_vein2x2: Medium 정맥
+  item_name_vein4x4: 대 정맥
   item_name_perforator_artery1x1: Small Perforator Artery
   item_name_perforator_artery2x2: Medium Perforator Artery
   item_name_perforator_artery4x4: Large Perforator Artery
@@ -249,8 +249,8 @@ strings:
   item_name_cardiac_pump1x1: Small Cardiac Pump
   item_name_cardiac_pump2x2: Medium Cardiac Pump
 
-  item_name_resource_heap: Resource Heap
-  item_name_building_site: Building Site
+  item_name_resource_heap: 자원더미
+  item_name_building_site: 공사장
 
   item_name_missing_item: 존재하지 않는 자원
   item_name_none: None
