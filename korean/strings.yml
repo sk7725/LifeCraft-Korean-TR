@@ -337,11 +337,11 @@ strings:
   evolution_description_mitochondrion: Discover <r>mitochondrion</r>, a special intracellular zone that can be used to produce heat and energy
   evolution_description_mitochondrion_transportation: Discover <r>mitochondrion transportation</r>, to allow transporters which can be used to convey pyruvate, exchange NAD+/NADH and ADP/ATP between mitochondrion and intracellular zones containing it
 
-  evolution_group_evolution: Evolution
-  evolution_group_proteins: Proteins
-  evolution_group_logistics: Logistics
-  evolution_group_routing: Routing
-  evolution_group_energy: Energy
+  evolution_group_evolution: 진화
+  evolution_group_proteins: 단백질
+  evolution_group_logistics: 이송
+  evolution_group_routing: 분류
+  evolution_group_energy: 에너지
   evolution_group_mitochondrial_energy: Mitochondrial Energy
 
   item_description_picker: A <a>picker</a> can pick and drop items from microtubules and structures
@@ -489,16 +489,16 @@ strings:
    # Special, Intracellular, Extracellular, Inner, Outside, Colony, Replacing 
 
   zone_layer_name_special: Special
-  zone_layer_name_intracellular: Intracellular
-  zone_layer_name_extracellular: Extracellular
-  zone_layer_name_internal: Internal
-  zone_layer_name_colony: Colony
+  zone_layer_name_intracellular: 세포내부
+  zone_layer_name_extracellular: 세포외부
+  zone_layer_name_internal: 내부
+  zone_layer_name_colony: 점령지
 
-  zone_name_scaffold: Scaffold
-  zone_name_cytoskeleton: Cytoskeleton
+  zone_name_scaffold: 건축비게
+  zone_name_cytoskeleton: 세포골격
   zone_name_cytosol: Cytosol
-  zone_name_extracellular_matrix: Extracellular Matrix
-  zone_name_mitochondrion: Mitochondrion
+  zone_name_extracellular_matrix: 세포외부 메트릭스
+  zone_name_mitochondrion: 미토콘드리안
   zone_name_nucleus: Nucleus
   zone_name_staminal_tissue: Staminal Tissue
   zone_name_necrosis: Necrosis
