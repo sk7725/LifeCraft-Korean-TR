@@ -168,24 +168,24 @@ strings:
   item_name_iron: Iron
   item_name_copper: Copper
 
-  item_name_glucose: Glucose
-  item_name_ribose: Ribose
-  item_name_ethanol: Ethanol
+  item_name_glucose: 글루코스
+  item_name_ribose: 리보솜
+  item_name_ethanol: 에탄올
   item_name_glycerol: Glycerol
   item_name_lactate: Lactate
   item_name_malate: Malate
   item_name_oxaloacetate: Oxaloacetate
   item_name_pyruvate: Pyruvate
   
-  item_name_vitamin_b3: Vitamin B3
-  item_name_hemoglobin: Hemoglobin
-  item_name_hemoglobin_subunit_alpha: Hemoglobin Subunit Alpha
-  item_name_hemoglobin_subunit_beta: Hemoglobin Subunit Beta
+  item_name_vitamin_b3: 비타민 B3
+  item_name_hemoglobin: 헤모글로빈
+  item_name_hemoglobin_subunit_alpha: 헤모글로빈 소단위체 알파
+  item_name_hemoglobin_subunit_beta: 헤모글로빈 소단위체 베타
 
   item_name_item_sink: Item Sink
-  item_name_black_box: Black Box
-  item_name_energy_drain: Energy Drain
-  item_name_heater: Heater
+  item_name_black_box: 블랙 박스
+  item_name_energy_drain: 에너지 쓰레기통
+  item_name_heater: 히터
   item_name_infector: Infector
 
   item_name_adp_synthase_enzyme: ADP Synthase Enzyme
