@@ -182,9 +182,9 @@ strings:
   item_name_hemoglobin_subunit_alpha: 헤모글로빈 소단위체 α
   item_name_hemoglobin_subunit_beta: 헤모글로빈 소단위체 β
 
-  item_name_item_sink: Item Sink
+  item_name_item_sink: 자원 구멍
   item_name_black_box: 블랙 박스
-  item_name_energy_drain: 에너지 쓰레기통
+  item_name_energy_drain: 에너지 구멍
   item_name_heater: 히터
   item_name_infector: 감염체
 
@@ -212,10 +212,10 @@ strings:
   item_name_necrotic_tissue: Necrotic Tissue
   item_name_mitochondrial_membrane: 미토콘드리아 멤브레인
 
-  item_name_bacterial_vegetation_bacillus_blue: 파란색 간균 백신
-  item_name_bacterial_vegetation_bacillus_green: 초록색 간균 백신
-  item_name_bacterial_vegetation_coccus_red: 빨간색 구균 백신
-  item_name_bacterial_vegetation_coccus_yellow: 노랑색 구균 백신
+  item_name_bacterial_vegetation_bacillus_blue: 파란색 간균 군락
+  item_name_bacterial_vegetation_bacillus_green: 초록색 간균 군락
+  item_name_bacterial_vegetation_coccus_red: 빨간색 구균 군락
+  item_name_bacterial_vegetation_coccus_yellow: 노랑색 구균 군락
 
   item_name_energy_pole_extracellular: 세포 외부간 전신주
   item_name_energy_station: 발전소
@@ -232,12 +232,12 @@ strings:
   item_name_bacterium_coccus_red: 빨간색 구균 
   item_name_bacterium_coccus_yellow: 노란색 구균 
 
-  item_name_capillary: Capillary
-  item_name_artery1x1: Small 동맥
-  item_name_artery2x2: Medium 동맥
+  item_name_capillary: 모세혈관
+  item_name_artery1x1: 세동맥
+  item_name_artery2x2: 중동맥
   item_name_artery4x4: 대동맥
-  item_name_vein1x1: Small 정맥
-  item_name_vein2x2: Medium 정맥
+  item_name_vein1x1: 세정맥
+  item_name_vein2x2: 중정맥
   item_name_vein4x4: 대정맥
   item_name_perforator_artery1x1: Small Perforator Artery
   item_name_perforator_artery2x2: Medium Perforator Artery
@@ -257,8 +257,8 @@ strings:
 
 # evolution
 
-  evolution_name_birth_of_life: Birth of Life
-  evolution_description_birth_of_life: Unlock starting recipes
+  evolution_name_birth_of_life: 생명의 탄생
+  evolution_description_birth_of_life: 기초 자원 해금
 
   evolution_name_advanced_bioluminescence: 고급 발광
   evolution_name_advanced_distribution: 고급 분배
@@ -280,8 +280,8 @@ strings:
   evolution_name_functional_proteins: 기능성 단백질
   evolution_name_gas_logistics: 기체 이송
   evolution_name_innate_response: 선천 면역 반응
-  evolution_name_intracellular_organization_1: Intracellular Organization 1
-  evolution_name_intracellular_organization_2: Intracellular Organization 2
+  evolution_name_intracellular_organization_1: 세포 내 자원 정리 1
+  evolution_name_intracellular_organization_2: 세포 내 자원 정리 2
   evolution_name_intracellular_production: 세포 내 생산
   evolution_name_kinesin: 키네신
   evolution_name_krebs_cycle: TCA 회로
@@ -292,16 +292,16 @@ strings:
   evolution_name_myosin: 미오신
   evolution_name_novel_pickers: 특수 수집기
   evolution_name_pentose_phosphate_pathway: 오탄당 인산경로
-  evolution_name_primitive_bioluminescence: 초급 발광
-  evolution_name_primordial_immunity: 고급 원시 면역
-  evolution_name_pyruvate_manipulation: 피루브산 조작
-  evolution_name_staminal_discovery: Staminal Discovery
-  evolution_name_subunits: Subunits
-  evolution_name_tubulins: Tubulins
+  evolution_name_primitive_bioluminescence: 원시 발광
+  evolution_name_primordial_immunity: 원시 면역
+  evolution_name_pyruvate_manipulation: 피루브산 산화
+  evolution_name_staminal_discovery: 줄기세포 발현
+  evolution_name_subunits: 단백질 소단위체
+  evolution_name_tubulins: 튜불린
 
   evolution_name_transportation_basic: 기본 자원 수송
   evolution_name_transportation_advanced: 고급 자원 수송
-  evolution_name_gathering_basic: Basic Gathering
+  evolution_name_gathering_basic: 초급 수집
 
   evolution_name_furniture_primitive: 초급 가구
 
@@ -338,11 +338,11 @@ strings:
   evolution_description_mitochondrion_transportation: Discover <r>mitochondrion transportation</r>, to allow transporters which can be used to convey pyruvate, exchange NAD+/NADH and ADP/ATP between mitochondrion and intracellular zones containing it
 
   evolution_group_evolution: 진화
-  evolution_group_proteins: 단백질
+  evolution_group_proteins: 단백질 합성
   evolution_group_logistics: 이송
   evolution_group_routing: 분류
-  evolution_group_energy: 에너지
-  evolution_group_mitochondrial_energy: Mitochondrial Energy
+  evolution_group_energy: 에너지 생성
+  evolution_group_mitochondrial_energy: 미토콘드리아 에너지 생성
 
   item_description_picker: A <a>picker</a> can pick and drop items from microtubules and structures
   item_description_picker_red: A <a>picker</a> which works with red items only
@@ -489,16 +489,16 @@ strings:
    # Special, Intracellular, Extracellular, Inner, Outside, Colony, Replacing 
 
   zone_layer_name_special: Special
-  zone_layer_name_intracellular: 세포내부
-  zone_layer_name_extracellular: 세포외부
+  zone_layer_name_intracellular: 세포 내
+  zone_layer_name_extracellular: 세포 외
   zone_layer_name_internal: 내부
-  zone_layer_name_colony: 점령지
+  zone_layer_name_colony: 군락
 
   zone_name_scaffold: 건축비게
   zone_name_cytoskeleton: 세포골격
   zone_name_cytosol: Cytosol
   zone_name_extracellular_matrix: 세포외부 메트릭스
-  zone_name_mitochondrion: 미토콘드리안
+  zone_name_mitochondrion: 미토콘드리아
   zone_name_nucleus: Nucleus
   zone_name_staminal_tissue: Staminal Tissue
   zone_name_necrosis: Necrosis
