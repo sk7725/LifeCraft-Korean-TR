@@ -110,8 +110,8 @@ strings:
   item_name_dna_nuclease: DNA Nuclease
   item_name_evolver: 진화기
   item_name_balancer: 분배기
-  item_name_item_tunnel: Item Tunnel
-  item_name_item_tunnel_primitive: Primitive Item Tunnel
+  item_name_item_tunnel: 아이템 터널
+  item_name_item_tunnel_primitive: 초급 아이템 터널
   item_name_cytostome1x: Primitive Cytostome
   item_name_cytostome_ultimate: Ultimate Cytostome
   item_name_cytostome2x: Cytostome
