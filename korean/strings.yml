@@ -1,89 +1,89 @@
 strings:
 
 # items
-  item_category_aminoacid: Aminoacid
-  item_category_protein: Protein
-  item_category_subunit: Subunit
-  item_category_tubulin: Tubulin
-  item_category_structural_protein: Structural
-  item_category_logistics: Logistics
-  item_category_routing: Routing
-  item_category_picker: Picker
-  item_category_storage: Storage
-  item_category_poiesis: Poiesis
-  item_category_structure: Structure
-  item_category_energy: Energy
-  item_category_enzyme: Enzyme
-  item_category_lipid: Lipid
+  item_category_aminoacid: 아미노산
+  item_category_protein: 단백질
+  item_category_subunit: 소단위체
+  item_category_tubulin: 튜불린
+  item_category_structural_protein: 구조단백질
+  item_category_logistics: 이송
+  item_category_routing: 분배
+  item_category_picker: 수집기
+  item_category_storage: 저장소
+  item_category_poiesis: 자가생산
+  item_category_structure: 구조
+  item_category_energy: 에너지
+  item_category_enzyme: 효소
+  item_category_lipid: 지질
   item_category_transporter: Transporter
-  item_category_flow: Flow
-  item_category_flow_urinary: Urinary
-  item_category_flow_respiratory: Respiratory
-  item_category_flow_circulatory: Circulatory
-  item_category_flow_digestive: Esophagus
-  item_category_energy_production: Energy
-  item_category_molecule_synthesis: Synthesis
-  item_category_widget: Widget
-  item_category_nutrient: Nutrient
-  item_category_element: Element
-  item_category_vitamin: Vitamin
-  item_category_gas: Gas
-  item_category_genetics: Genetics
-  item_category_nucleobase: Nucleobase
-  item_category_plasmid: Plasmid
-  item_category_immunity: Immunity
-  item_category_domestic_structures: Domestic
-  item_category_door: Door
-  item_category_light: Light
-  item_category_organism: Organism
-  item_category_cell: Cell
-  item_category_bacterium: Bacterium
-  item_category_uncategorized: Uncategorized
+  item_category_flow: 순환
+  item_category_flow_urinary: 비뇨계
+  item_category_flow_respiratory: 호흡계
+  item_category_flow_circulatory: 순환계
+  item_category_flow_digestive: 소화계
+  item_category_energy_production: 에너지
+  item_category_molecule_synthesis: 합성
+  item_category_widget: 위젯
+  item_category_nutrient: 영양소
+  item_category_element: 무기원소
+  item_category_vitamin: 비타민
+  item_category_gas: 기체
+  item_category_genetics: 유전
+  item_category_nucleobase: 핵염기
+  item_category_plasmid: 플라즈미드
+  item_category_immunity: 면역
+  item_category_domestic_structures: 자생
+  item_category_door: 문
+  item_category_light: 발광
+  item_category_organism: 생물체
+  item_category_cell: 세포
+  item_category_bacterium: 박테리아
+  item_category_uncategorized: 미분류
 
-  item_category_flooring: Flooring
-  item_category_tissue: Tissue
-  item_category_bacterial_colony: Colony
-  item_category_unused_tissue: Unused
+  item_category_flooring: 바닥재
+  item_category_tissue: 조직
+  item_category_bacterial_colony: 콜로니
+  item_category_unused_tissue: 미사용
 
-  item_color_red: Red
-  item_color_yellow: Yellow
-  item_color_green: Green
-  item_color_blue: Blue
-  item_color_white: White
+  item_color_red: 빨간색
+  item_color_yellow: 노란색
+  item_color_green: 초록색
+  item_color_blue: 파란색
+  item_color_white: 하얀색
 
-  item_name_tubulin_red: α-tubulin
+  item_name_tubulin_red: α-튜불린
   item_name_tubulin_green: β-tubulin
   item_name_tubulin_yellow: γ-tubulin
   item_name_tubulin_blue: δ-tubulin
-  item_name_subunit_red: Red Subunit
+  item_name_subunit_red: 빨간색 소단위체
   item_name_subunit_green: Green Subunit
   item_name_subunit_yellow: Yellow Subunit
   item_name_subunit_blue: Blue Subunit
-  item_name_aminoacid_red: Glycine
-  item_name_aminoacid_yellow: Proline
-  item_name_aminoacid_green: Glutammine
-  item_name_aminoacid_blue: Aspartate
-  item_name_alpha_ketoglutarate: α-ketoglutarate
-  item_name_collagen_chain_red: α-1 Collagen Chain
-  item_name_collagen_chain_blue: α-2 Collagen Chain
-  item_name_actin_f: F-Actin
-  item_name_actin_g: G-Actin
+  item_name_aminoacid_red: 글리신
+  item_name_aminoacid_yellow: 프롤린
+  item_name_aminoacid_green: 글루타민
+  item_name_aminoacid_blue: 아스파르트산
+  item_name_alpha_ketoglutarate: α-케토글루타르산
+  item_name_collagen_chain_red: α-1 콜라겐 사슬
+  item_name_collagen_chain_blue: α-2 콜라겐 사슬
+  item_name_actin_f: F-액틴
+  item_name_actin_g: G-액틴
   item_name_adp: ADP
   item_name_atp: ATP
   item_name_nad: NAD+
   item_name_nadh: NADH
   item_name_nadp: NADP+
   item_name_nadph: NADPH
-  item_name_acetyl_coa: Acetyl-CoA
-  item_name_interferon_alpha: α-interferon
+  item_name_acetyl_coa: 아세틸-CoA
+  item_name_interferon_alpha: α-인터페론
   
-  item_name_microtubule: Microtubule
-  item_name_microtubule_primitive: Primitive Microtubule
-  item_name_microtubule_advanced: Advanced Microtubule
-  item_name_item_kicker: Item Kicker
+  item_name_microtubule: 미세소관
+  item_name_microtubule_primitive: 초급 미세소관
+  item_name_microtubule_advanced: 고급 미세소관
+  item_name_item_kicker: 방향 전환기
 
-  item_name_picker: Picker
-  item_name_picker_fast: Swift Picker
+  item_name_picker: 수집기
+  item_name_picker_fast: 고급 수집기
   item_name_picker_red: Red Picker
   item_name_picker_blue: Blue Picker
   item_name_picker_green: Green Picker
@@ -95,12 +95,12 @@ strings:
   item_name_picker_long: Long Picker
   item_name_picker_overlong: Overlong Picker
   item_name_picker_filter: Filtering Picker
-  item_name_picker_primitive: Primitive Picker
+  item_name_picker_primitive: 초급 수집기
 
-  item_name_phospholipid: Phospholipid
-  item_name_ribosome: Ribosome
-  item_name_assembler: Assembler
-  item_name_catalyzer: Catalyzer
+  item_name_phospholipid: 인지질
+  item_name_ribosome: 리보솜
+  item_name_assembler: 조립기
+  item_name_catalyzer: 촉매기
   item_name_stockpile1x: Tiny Stockpile
   item_name_stockpile2x: Stockpile
   item_name_stockpile4x: Huge Stockpile
@@ -109,7 +109,7 @@ strings:
   item_name_infinite_container1x: Tiny Bottomless Box
   item_name_dna_nuclease: DNA Nuclease
   item_name_evolver: Evolver
-  item_name_balancer: Balancer
+  item_name_balancer: 분배기
   item_name_item_tunnel: Item Tunnel
   item_name_item_tunnel_primitive: Primitive Item Tunnel
   item_name_cytostome1x: Primitive Cytostome
@@ -121,39 +121,39 @@ strings:
   item_name_launcher2x: Launcher
   item_name_dispatcher_primitive: Primitive Dispatcher
   item_name_dispatcher: Dispatcher
-  item_name_diffuser: Diffuser
+  item_name_diffuser: 확산기
   item_name_stasher: Stasher
-  item_name_workbench: Workbench
+  item_name_workbench: 작업대
   item_name_energy_supplier_mk1: Primitive Energy Supplier
   item_name_energy_supplier_mk2: Energy Supplier
   item_name_energy_pole: Energy Pole
-  item_name_atp_synthase: ATP Synthase
-  item_name_atp_synthase_subunit: ATP Synthase Subunit
-  item_name_decoupler: Decoupler
-  item_name_thermogenin: Thermogenin
-  item_name_electron_transport_chain: Electron Transport Chain
-  item_name_biolamp: Biolamp
-  item_name_biolamp_primitive: Primitive Biolamp
-  item_name_biolamp_ultimate: Ultimate Biolamp
+  item_name_atp_synthase: ATP 생성효소
+  item_name_atp_synthase_subunit: ATP 생성효소 소단위체
+  item_name_decoupler: 짝풀림단백질
+  item_name_thermogenin: 터모제닌
+  item_name_electron_transport_chain: 전자전달계
+  item_name_biolamp: 발광 램프
+  item_name_biolamp_primitive: 초급 발광 램프
+  item_name_biolamp_ultimate: 고급 발광 램프
   item_name_membrane_transporter1x: Membrane Uniporter
   item_name_membrane_transporter2x: Membrane Cotransporter
   item_name_connexin: Connexin
   item_name_connexon: Connexon
   item_name_uniporter_gas: Gas Uniporter
   item_name_uniporter_glucose: Glucose Uniporter
-  item_name_antiporter_atp_adp: Antiporter ATP ⇄ ADP
-  item_name_antiporter_nadh_nad: Antiporter NADH ⇄ NAD
-  item_name_adenine: Adenine
-  item_name_cytosine: Cytosine
-  item_name_guanine: Guanine
-  item_name_thymine: Thymine
-  item_name_uracil: Uracil
-  item_name_base_pair_at: A-T Base Pair
-  item_name_base_pair_au: A-U Base Pair
-  item_name_base_pair_cg: C-G Base Pair
+  item_name_antiporter_atp_adp: 역수송체 ATP ⇄ ADP
+  item_name_antiporter_nadh_nad: 역수송체 NADH ⇄ NAD
+  item_name_adenine: 아데닌
+  item_name_cytosine: 사이토신
+  item_name_guanine: 구아닌
+  item_name_thymine: 티민
+  item_name_uracil: 유라실
+  item_name_base_pair_at: A-T 염기쌍
+  item_name_base_pair_au: A-U 염기쌍
+  item_name_base_pair_cg: C-G 염기쌍
   item_name_mrna: mRNA
-  item_name_plasmid_1: Plasmid 1
-  item_name_plasmid_2: Plasmid 2
+  item_name_plasmid_1: 플라스미드 1
+  item_name_plasmid_2: 플라스미드 2
   
   item_name_cytochrome: Cytochrome
   item_name_kinesin: Kinesin
