@@ -42,7 +42,7 @@ strings:
 
   item_category_flooring: 바닥재
   item_category_tissue: 조직
-  item_category_bacterial_colony: 콜로니
+  item_category_bacterial_colony: 세균 군락
   item_category_unused_tissue: 미사용
 
   item_color_red: 빨간색
@@ -108,7 +108,7 @@ strings:
   item_name_infinite_container2x: Bottomless Box
   item_name_infinite_container1x: Tiny Bottomless Box
   item_name_dna_nuclease: DNA Nuclease
-  item_name_evolver: Evolver
+  item_name_evolver: 진화기
   item_name_balancer: 분배기
   item_name_item_tunnel: Item Tunnel
   item_name_item_tunnel_primitive: Primitive Item Tunnel
@@ -168,14 +168,14 @@ strings:
   item_name_iron: Iron
   item_name_copper: Copper
 
-  item_name_glucose: Glucose
-  item_name_ribose: Ribose
-  item_name_ethanol: Ethanol
-  item_name_glycerol: Glycerol
-  item_name_lactate: Lactate
-  item_name_malate: Malate
-  item_name_oxaloacetate: Oxaloacetate
-  item_name_pyruvate: Pyruvate
+  item_name_glucose: 포도당
+  item_name_ribose: 리보스
+  item_name_ethanol: 에탄올
+  item_name_glycerol: 글리세롤
+  item_name_lactate: 젖산
+  item_name_malate: 말산
+  item_name_oxaloacetate: 옥살로아세트산
+  item_name_pyruvate: 피루브산
   
   item_name_vitamin_b3: Vitamin B3
   item_name_hemoglobin: Hemoglobin
@@ -220,7 +220,7 @@ strings:
   item_name_energy_pole_extracellular: Extracellular Energy Pole
   item_name_energy_station: Energy Station
 
-  item_name_protease: Protease
+  item_name_protease: 프로테아제
   item_name_defensin_theta: θ-defensin
 
   item_name_uniporter_mrna: mRNA Uniporter
