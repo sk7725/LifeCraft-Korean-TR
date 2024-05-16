@@ -232,12 +232,12 @@ strings:
   item_name_bacterium_coccus_red: 빨간색 구균 
   item_name_bacterium_coccus_yellow: 노란색 구균 
 
-  item_name_capillary: Capillary
-  item_name_artery1x1: Small 동맥
-  item_name_artery2x2: Medium 동맥
+  item_name_capillary: 모세혈관
+  item_name_artery1x1: 세동맥
+  item_name_artery2x2: 중동맥
   item_name_artery4x4: 대동맥
-  item_name_vein1x1: Small 정맥
-  item_name_vein2x2: Medium 정맥
+  item_name_vein1x1: 세정맥
+  item_name_vein2x2: 중정맥
   item_name_vein4x4: 대정맥
   item_name_perforator_artery1x1: Small Perforator Artery
   item_name_perforator_artery2x2: Medium Perforator Artery
@@ -338,11 +338,11 @@ strings:
   evolution_description_mitochondrion_transportation: Discover <r>mitochondrion transportation</r>, to allow transporters which can be used to convey pyruvate, exchange NAD+/NADH and ADP/ATP between mitochondrion and intracellular zones containing it
 
   evolution_group_evolution: 진화
-  evolution_group_proteins: 단백질
+  evolution_group_proteins: 단백질 합성
   evolution_group_logistics: 이송
   evolution_group_routing: 분류
-  evolution_group_energy: 에너지
-  evolution_group_mitochondrial_energy: Mitochondrial Energy
+  evolution_group_energy: 에너지 생성
+  evolution_group_mitochondrial_energy: 미토콘드리아 에너지 생성
 
   item_description_picker: A <a>picker</a> can pick and drop items from microtubules and structures
   item_description_picker_red: A <a>picker</a> which works with red items only
@@ -489,16 +489,16 @@ strings:
    # Special, Intracellular, Extracellular, Inner, Outside, Colony, Replacing 
 
   zone_layer_name_special: Special
-  zone_layer_name_intracellular: 세포내부
-  zone_layer_name_extracellular: 세포외부
+  zone_layer_name_intracellular: 세포 내
+  zone_layer_name_extracellular: 세포 외
   zone_layer_name_internal: 내부
-  zone_layer_name_colony: 점령지
+  zone_layer_name_colony: 군락
 
   zone_name_scaffold: 건축비게
   zone_name_cytoskeleton: 세포골격
   zone_name_cytosol: Cytosol
   zone_name_extracellular_matrix: 세포외부 메트릭스
-  zone_name_mitochondrion: 미토콘드리안
+  zone_name_mitochondrion: 미토콘드리아
   zone_name_nucleus: Nucleus
   zone_name_staminal_tissue: Staminal Tissue
   zone_name_necrosis: Necrosis
