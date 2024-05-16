@@ -135,12 +135,12 @@ strings:
   item_name_biolamp: 발광 램프
   item_name_biolamp_primitive: 초급 발광 램프
   item_name_biolamp_ultimate: 고급 발광 램프
-  item_name_membrane_transporter1x: Membrane Uniporter
-  item_name_membrane_transporter2x: Membrane Cotransporter
+  item_name_membrane_transporter1x: 멤브레인 단일 수송체
+  item_name_membrane_transporter2x: 멤브레인 공수송체
   item_name_connexin: Connexin
   item_name_connexon: Connexon
-  item_name_uniporter_gas: Gas Uniporter
-  item_name_uniporter_glucose: Glucose Uniporter
+  item_name_uniporter_gas: 가스 단일 수송체
+  item_name_uniporter_glucose: 글루코스 단일 수송체
   item_name_antiporter_atp_adp: 역수송체 ATP ⇄ ADP
   item_name_antiporter_nadh_nad: 역수송체 NADH ⇄ NAD
   item_name_adenine: 아데닌
@@ -156,10 +156,10 @@ strings:
   item_name_plasmid_2: 플라스미드 2
   
   item_name_cytochrome: Cytochrome
-  item_name_kinesin: Kinesin
-  item_name_vimentin: Vimentin
+  item_name_kinesin: 키네신
+  item_name_vimentin: 비타민
   item_name_luciferin: Luciferin
-  item_name_myosin: Myosin
+  item_name_myosin: 미오신
   item_name_alpha_helix: Alpha Helix
   item_name_beta_sheet: Beta Sheet
 
@@ -171,7 +171,7 @@ strings:
   item_name_glucose: 글루코스
   item_name_ribose: 리보솜
   item_name_ethanol: 에탄올
-  item_name_glycerol: Glycerol
+  item_name_glycerol: 글리세롤
   item_name_lactate: Lactate
   item_name_malate: Malate
   item_name_oxaloacetate: Oxaloacetate
@@ -186,7 +186,7 @@ strings:
   item_name_black_box: 블랙 박스
   item_name_energy_drain: 에너지 쓰레기통
   item_name_heater: 히터
-  item_name_infector: Infector
+  item_name_infector: 감염체
 
   item_name_adp_synthase_enzyme: ADP Synthase Enzyme
   item_name_alcohol_dehydrogenase: Alcohol Dehydrogenase
