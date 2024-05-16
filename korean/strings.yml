@@ -204,21 +204,21 @@ strings:
   item_name_luciferase_enzyme: Luciferase Enzyme
   item_name_aspartate_aminotransferase: Aspartate Aminotransferase
 
-  item_name_cell_membrane: Cell Membrane
-  item_name_collagen_flooring: Collagen Flooring
-  item_name_collagen_scaffold: Collagen Scaffold
-  item_name_cytoskeleton_scaffold: Cytoskeleton Scaffold
+  item_name_cell_membrane: 세포 멤브레인
+  item_name_collagen_flooring: 콜라겐 바닥
+  item_name_collagen_scaffold: 콜라겐 건축비게
+  item_name_cytoskeleton_scaffold: 세포골격 건축비게
   item_name_staminal_tissue: Staminal Tissue
   item_name_necrotic_tissue: Necrotic Tissue
-  item_name_mitochondrial_membrane: Mitochondrial Membrane
+  item_name_mitochondrial_membrane: 미토콘드리아 멤브레인
 
   item_name_bacterial_vegetation_bacillus_blue: 파란색 간균 백신
   item_name_bacterial_vegetation_bacillus_green: 초록색 간균 백신
   item_name_bacterial_vegetation_coccus_red: 빨간색 구균 백신
   item_name_bacterial_vegetation_coccus_yellow: 노랑색 구균 백신
 
-  item_name_energy_pole_extracellular: Extracellular Energy Pole
-  item_name_energy_station: Energy Station
+  item_name_energy_pole_extracellular: 세포 외부간 전신주
+  item_name_energy_station: 발전소
 
   item_name_protease: 프로테아제
   item_name_defensin_theta: θ-defensin
