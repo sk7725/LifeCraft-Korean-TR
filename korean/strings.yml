@@ -212,10 +212,10 @@ strings:
   item_name_necrotic_tissue: Necrotic Tissue
   item_name_mitochondrial_membrane: Mitochondrial Membrane
 
-  item_name_bacterial_vegetation_bacillus_blue: Blue Bacillus Bacterial Vegetation
-  item_name_bacterial_vegetation_bacillus_green: Green Bacillus Bacterial Vegetation
-  item_name_bacterial_vegetation_coccus_red: Red Coccus Bacterial Vegetation
-  item_name_bacterial_vegetation_coccus_yellow: Yellow Coccus Bacterial Vegetation
+  item_name_bacterial_vegetation_bacillus_blue: 파란색 간균 백신
+  item_name_bacterial_vegetation_bacillus_green: 초록색 간균 백신
+  item_name_bacterial_vegetation_coccus_red: 빨간색 구균 백신
+  item_name_bacterial_vegetation_coccus_yellow: 노랑색 구균 백신
 
   item_name_energy_pole_extracellular: Extracellular Energy Pole
   item_name_energy_station: Energy Station
@@ -223,14 +223,14 @@ strings:
   item_name_protease: 프로테아제
   item_name_defensin_theta: θ-defensin
 
-  item_name_uniporter_mrna: mRNA Uniporter
-  item_name_uniporter_pyruvate: Pyruvate Uniporter
+  item_name_uniporter_mrna: mRNA 단일 수송체
+  item_name_uniporter_pyruvate: Pyruvate 단일 수송체
 
-  item_name_virus: Virus
-  item_name_bacterium_bacillus_blue: Blue Bacillus 
-  item_name_bacterium_bacillus_green: Green Bacillus 
-  item_name_bacterium_coccus_red: Red Coccus 
-  item_name_bacterium_coccus_yellow: Yellow Coccus 
+  item_name_virus: 바이러스
+  item_name_bacterium_bacillus_blue: 파란색 간균 
+  item_name_bacterium_bacillus_green: 초록색 간균 
+  item_name_bacterium_coccus_red: 빨간색 구균 
+  item_name_bacterium_coccus_yellow: 노랑색 구균 
 
   item_name_capillary: Capillary
   item_name_artery1x1: Small Artery
