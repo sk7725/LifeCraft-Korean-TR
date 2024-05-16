@@ -83,18 +83,18 @@ strings:
   item_name_item_kicker: 방향 전환기
 
   item_name_picker: 수집기
-  item_name_picker_fast: 고급 수집기
-  item_name_picker_red: 빨강색 수집기
-  item_name_picker_blue: 파랑색 수집기
+  item_name_picker_fast: 고속 수집기
+  item_name_picker_red: 빨간색 수집기
+  item_name_picker_blue: 파란색 수집기
   item_name_picker_green: 초록색 수집기
-  item_name_picker_yellow: 노랑색 수집기
-  item_name_picker_white: 하양색 수집기
+  item_name_picker_yellow: 노란색 수집기
+  item_name_picker_white: 하얀색 수집기
   item_name_picker_gaseous: 가스 수집기
   item_name_picker_genetic: 유전물질 수집기
   item_name_picker_energetic: 에너지물질 수집기
-  item_name_picker_long: Long Picker
-  item_name_picker_overlong: Overlong Picker
-  item_name_picker_filter: 필터된 수집기
+  item_name_picker_long: 긴 수집기
+  item_name_picker_overlong: 더 긴 수집기
+  item_name_picker_filter: 필터 수집기
   item_name_picker_primitive: 초급 수집기
 
   item_name_phospholipid: 인지질
@@ -179,8 +179,8 @@ strings:
   
   item_name_vitamin_b3: 비타민 B3
   item_name_hemoglobin: 헤모글로빈
-  item_name_hemoglobin_subunit_alpha: 헤모글로빈 소단위체 알파
-  item_name_hemoglobin_subunit_beta: 헤모글로빈 소단위체 베타
+  item_name_hemoglobin_subunit_alpha: 헤모글로빈 소단위체 α
+  item_name_hemoglobin_subunit_beta: 헤모글로빈 소단위체 β
 
   item_name_item_sink: Item Sink
   item_name_black_box: 블랙 박스
@@ -252,7 +252,7 @@ strings:
   item_name_resource_heap: Resource Heap
   item_name_building_site: Building Site
 
-  item_name_missing_item: Missing Item
+  item_name_missing_item: 존재하지 않는 자원
   item_name_none: None
 
 # evolution
