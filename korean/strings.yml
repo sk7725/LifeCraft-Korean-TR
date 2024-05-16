@@ -84,17 +84,17 @@ strings:
 
   item_name_picker: 수집기
   item_name_picker_fast: 고급 수집기
-  item_name_picker_red: Red Picker
-  item_name_picker_blue: Blue Picker
-  item_name_picker_green: Green Picker
-  item_name_picker_yellow: Yellow Picker
-  item_name_picker_white: White Picker
-  item_name_picker_gaseous: Gas Picker
-  item_name_picker_genetic: Genomic Picker
-  item_name_picker_energetic: Energetic Picker
+  item_name_picker_red: 빨강색 수집기
+  item_name_picker_blue: 파랑색 수집기
+  item_name_picker_green: 초록색 수집기
+  item_name_picker_yellow: 노랑색 수집기
+  item_name_picker_white: 하양색 수집기
+  item_name_picker_gaseous: 가스 수집기
+  item_name_picker_genetic: 유전물질 수집기
+  item_name_picker_energetic: 에너지물질 수집기
   item_name_picker_long: Long Picker
   item_name_picker_overlong: Overlong Picker
-  item_name_picker_filter: Filtering Picker
+  item_name_picker_filter: 필터된 수집기
   item_name_picker_primitive: 초급 수집기
 
   item_name_phospholipid: 인지질
@@ -177,15 +177,15 @@ strings:
   item_name_oxaloacetate: 옥살로아세트산
   item_name_pyruvate: 피루브산
   
-  item_name_vitamin_b3: Vitamin B3
-  item_name_hemoglobin: Hemoglobin
-  item_name_hemoglobin_subunit_alpha: Hemoglobin Subunit Alpha
-  item_name_hemoglobin_subunit_beta: Hemoglobin Subunit Beta
+  item_name_vitamin_b3: 비타민 B3
+  item_name_hemoglobin: 헤모글로빈
+  item_name_hemoglobin_subunit_alpha: 헤모글로빈 소단위체 알파
+  item_name_hemoglobin_subunit_beta: 헤모글로빈 소단위체 베타
 
   item_name_item_sink: Item Sink
-  item_name_black_box: Black Box
-  item_name_energy_drain: Energy Drain
-  item_name_heater: Heater
+  item_name_black_box: 블랙 박스
+  item_name_energy_drain: 에너지 쓰레기통
+  item_name_heater: 히터
   item_name_infector: Infector
 
   item_name_adp_synthase_enzyme: ADP Synthase Enzyme
@@ -270,8 +270,8 @@ strings:
   evolution_name_colored_pickers: Colored Pickers
   evolution_name_diffuser: Diffuser
   evolution_name_energy_distribution: Energy Distribution
-  evolution_name_evolution_1: Evolution 1
-  evolution_name_evolution_2: Evolution 2
+  evolution_name_evolution_1: 진화 1
+  evolution_name_evolution_2: 진화 2
   evolution_name_expansion: Expansion
   evolution_name_extracellular_distribution: Extracellular Distribution
   evolution_name_extracellular_expansion: Extracellular Expansion
@@ -299,11 +299,11 @@ strings:
   evolution_name_subunits: Subunits
   evolution_name_tubulins: Tubulins
 
-  evolution_name_transportation_basic: Basic Transportation
-  evolution_name_transportation_advanced: Advanced Transportation
+  evolution_name_transportation_basic: 기본 물류운송
+  evolution_name_transportation_advanced: 고급 물류운송
   evolution_name_gathering_basic: Basic Gathering
 
-  evolution_name_furniture_primitive: Primitive Furniture
+  evolution_name_furniture_primitive: 생존(원시) 가구
 
   evolution_name_primitive_logistics: Primitive Logistics
   evolution_description_primitive_logistics: Discover <r>microtubules</r>, <r>pickers</r> and <r>cytostomes</r>, which are used to route items inside cells and siphon items from outside
