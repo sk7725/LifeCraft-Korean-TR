@@ -135,12 +135,12 @@ strings:
   item_name_biolamp: 발광 램프
   item_name_biolamp_primitive: 초급 발광 램프
   item_name_biolamp_ultimate: 고급 발광 램프
-  item_name_membrane_transporter1x: Membrane Uniporter
-  item_name_membrane_transporter2x: Membrane Cotransporter
+  item_name_membrane_transporter1x: 멤브레인 단일 수송체
+  item_name_membrane_transporter2x: 멤브레인 공수송체
   item_name_connexin: Connexin
   item_name_connexon: Connexon
-  item_name_uniporter_gas: Gas Uniporter
-  item_name_uniporter_glucose: Glucose Uniporter
+  item_name_uniporter_gas: 가스 단일 수송체
+  item_name_uniporter_glucose: 글루코스 단일 수송체
   item_name_antiporter_atp_adp: 역수송체 ATP ⇄ ADP
   item_name_antiporter_nadh_nad: 역수송체 NADH ⇄ NAD
   item_name_adenine: 아데닌
@@ -156,10 +156,10 @@ strings:
   item_name_plasmid_2: 플라스미드 2
   
   item_name_cytochrome: Cytochrome
-  item_name_kinesin: Kinesin
-  item_name_vimentin: Vimentin
+  item_name_kinesin: 키네신
+  item_name_vimentin: 비타민
   item_name_luciferin: Luciferin
-  item_name_myosin: Myosin
+  item_name_myosin: 미오신
   item_name_alpha_helix: 알파 나선
   item_name_beta_sheet: 베타 병풍
 
@@ -186,7 +186,7 @@ strings:
   item_name_black_box: 블랙 박스
   item_name_energy_drain: 에너지 쓰레기통
   item_name_heater: 히터
-  item_name_infector: Infector
+  item_name_infector: 감염체
 
   item_name_adp_synthase_enzyme: ADP Synthase Enzyme
   item_name_alcohol_dehydrogenase: Alcohol Dehydrogenase
@@ -212,10 +212,10 @@ strings:
   item_name_necrotic_tissue: Necrotic Tissue
   item_name_mitochondrial_membrane: Mitochondrial Membrane
 
-  item_name_bacterial_vegetation_bacillus_blue: Blue Bacillus Bacterial Vegetation
-  item_name_bacterial_vegetation_bacillus_green: Green Bacillus Bacterial Vegetation
-  item_name_bacterial_vegetation_coccus_red: Red Coccus Bacterial Vegetation
-  item_name_bacterial_vegetation_coccus_yellow: Yellow Coccus Bacterial Vegetation
+  item_name_bacterial_vegetation_bacillus_blue: 파란색 간균 백신
+  item_name_bacterial_vegetation_bacillus_green: 초록색 간균 백신
+  item_name_bacterial_vegetation_coccus_red: 빨간색 구균 백신
+  item_name_bacterial_vegetation_coccus_yellow: 노랑색 구균 백신
 
   item_name_energy_pole_extracellular: Extracellular Energy Pole
   item_name_energy_station: Energy Station
@@ -223,22 +223,22 @@ strings:
   item_name_protease: 프로테아제
   item_name_defensin_theta: θ-defensin
 
-  item_name_uniporter_mrna: mRNA Uniporter
-  item_name_uniporter_pyruvate: Pyruvate Uniporter
+  item_name_uniporter_mrna: mRNA 단일 수송체
+  item_name_uniporter_pyruvate: Pyruvate 단일 수송체
 
-  item_name_virus: Virus
-  item_name_bacterium_bacillus_blue: Blue Bacillus 
-  item_name_bacterium_bacillus_green: Green Bacillus 
-  item_name_bacterium_coccus_red: Red Coccus 
-  item_name_bacterium_coccus_yellow: Yellow Coccus 
+  item_name_virus: 바이러스
+  item_name_bacterium_bacillus_blue: 파란색 간균 
+  item_name_bacterium_bacillus_green: 초록색 간균 
+  item_name_bacterium_coccus_red: 빨간색 구균 
+  item_name_bacterium_coccus_yellow: 노란색 구균 
 
   item_name_capillary: Capillary
-  item_name_artery1x1: Small Artery
-  item_name_artery2x2: Medium Artery
-  item_name_artery4x4: Large Artery
-  item_name_vein1x1: Small Vein
-  item_name_vein2x2: Medium Vein
-  item_name_vein4x4: Large Vein
+  item_name_artery1x1: Small 동맥
+  item_name_artery2x2: Medium 동맥
+  item_name_artery4x4: 대동맥
+  item_name_vein1x1: Small 정맥
+  item_name_vein2x2: Medium 정맥
+  item_name_vein4x4: 대정맥
   item_name_perforator_artery1x1: Small Perforator Artery
   item_name_perforator_artery2x2: Medium Perforator Artery
   item_name_perforator_artery4x4: Large Perforator Artery
@@ -249,11 +249,11 @@ strings:
   item_name_cardiac_pump1x1: Small Cardiac Pump
   item_name_cardiac_pump2x2: Medium Cardiac Pump
 
-  item_name_resource_heap: Resource Heap
-  item_name_building_site: Building Site
+  item_name_resource_heap: 자원 더미
+  item_name_building_site: 공사장
 
   item_name_missing_item: 존재하지 않는 자원
-  item_name_none: None
+  item_name_none: 없음
 
 # evolution
 
