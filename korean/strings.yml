@@ -270,8 +270,8 @@ strings:
   evolution_name_colored_pickers: Colored Pickers
   evolution_name_diffuser: Diffuser
   evolution_name_energy_distribution: Energy Distribution
-  evolution_name_evolution_1: Evolution 1
-  evolution_name_evolution_2: Evolution 2
+  evolution_name_evolution_1: 진화 1
+  evolution_name_evolution_2: 진화 2
   evolution_name_expansion: Expansion
   evolution_name_extracellular_distribution: Extracellular Distribution
   evolution_name_extracellular_expansion: Extracellular Expansion
@@ -299,11 +299,11 @@ strings:
   evolution_name_subunits: Subunits
   evolution_name_tubulins: Tubulins
 
-  evolution_name_transportation_basic: Basic Transportation
-  evolution_name_transportation_advanced: Advanced Transportation
+  evolution_name_transportation_basic: 기본 물류운송
+  evolution_name_transportation_advanced: 고급 물류운송
   evolution_name_gathering_basic: Basic Gathering
 
-  evolution_name_furniture_primitive: Primitive Furniture
+  evolution_name_furniture_primitive: 생존(원시) 가구
 
   evolution_name_primitive_logistics: Primitive Logistics
   evolution_description_primitive_logistics: Discover <r>microtubules</r>, <r>pickers</r> and <r>cytostomes</r>, which are used to route items inside cells and siphon items from outside
